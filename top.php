@@ -9,6 +9,7 @@
   <meta content="Commerce Solutions is an institute for CA, CS, 11th and 12th standard students established since 2005. Now it has made its place in best coaching institute in indore for commerce." name="descriptison">
   <meta content="CommerceSolutions, CommerceSolutionsIndore, Commerce, Solutions, Indore, Best commerce coaching indore, commerce coaching in indore, top commerceinstitute in indore, commerce institute, 11th, 12th, bba. ca, cs, mba" name="keywords">
   <meta content="Najeeb Hashmi" name="author">
+  <meta name="google-site-verification" content="hQdfPz-mavgyKM_x3BaLkBHkeBRzeC_atsnF5D0t_-k" />
   
   <link href="assets/img/title-icon-CS.jpg" rel="icon">
   <link href="assets/img/apple-touch-icon.jpg" rel="apple-touch-icon">
