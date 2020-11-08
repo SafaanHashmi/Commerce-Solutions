@@ -964,11 +964,11 @@ section {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #ddd !important;
+  background-color: #ccc8c8 !important;
 }
 
 .testimonials .owl-dot.active {
-  background-color: #5fcf80 !important;
+  background-color: #fec907 !important;
 }
 
 @media (max-width: 767px) {
