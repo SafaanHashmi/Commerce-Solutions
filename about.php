@@ -140,8 +140,7 @@
 				<p>
 				  Commerce Solutions is an institute for CA, CS, 11th and 12th standard students established since 2005.
 				  It was founded by Muhd Najeeb Hashmi
-				  <br><br>
-				  More to Add here......
+				  
 				</p>
 				<a href="https://www.facebook.com/m.najeebhashmi" class="facb-naj-btn"> Visit on Facebook</a>
 			  </div>
