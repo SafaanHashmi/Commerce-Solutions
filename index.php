@@ -43,7 +43,7 @@
             <ul>
               <li><i class="icofont-check-circled"></i> Simplified and advanced notes and study material.</li>
               <li><i class="icofont-check-circled"></i> Weekly tests to check your progress.</li>
-              <li><i class="icofont-check-circled"></i> Commerce Paathshala is an extraordinary platform for commerce students, which is unmatchable with any other coaching centre in Indore</li>
+              <li><i class="icofont-check-circled"></i> Commerce Solutions is an extraordinary platform for commerce students, which is unmatchable with any other coaching centre in Indore</li>
             </ul>
             <p>
               
