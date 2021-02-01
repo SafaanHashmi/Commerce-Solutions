@@ -109,7 +109,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Introduction to Accountancy</a></h5>
                 <p class="font-italic text-center">Sunday, September 26th at 7:00 pm</p>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <p class="card-text">Accounting is the language of business. It is the system of recording, summarizing, and analyzing an economic entity's financial transactions. Effectively communicating this information is key to the success of every business.</p>
               </div>
             </div>
           </div>
@@ -119,9 +119,9 @@
                 <img src="assets/img/blog 2 gstcopy.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="">Accountiong for GST</a></h5>
+                <h5 class="card-title"><a href="">Accounting for GST</a></h5>
                 <p class="font-italic text-center">Sunday, November 15th at 7:00 pm</p>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <p class="card-text">A blog about all  Accounts and Records Under GST. It helps understand terms like Accounting entries under GST, Electronic Cash and Credit Ledger, Period for Retention of Accounts under GST</p>
               </div>
             </div>
 		  </div>
@@ -136,7 +136,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Journal Entries</a></h5>
                 <p class="font-italic text-center">Sunday, September 26th at 7:00 pm</p>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <p class="card-text">A journal entry is the act of keeping or making records of any transactions either economic or non-economic. Transactions are listed in an accounting journal that shows a company's debit and credit balances.</p>
               </div>
             </div>
           </div>
@@ -148,7 +148,7 @@
               <div class="card-body">
                 <h5 class="card-title"><a href="">Rules of Debit and Credit</a></h5>
                 <p class="font-italic text-center">Sunday, November 15th at 7:00 pm</p>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <p class="card-text">A debit increases asset or expense accounts, and decreases liability, revenue or equity accounts. A credit is always positioned on the right side of an entry. It increases liability, revenue or equity accounts and decreases asset or expense accounts.</p>
               </div>
             </div>
 		  </div>
