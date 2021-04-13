@@ -325,7 +325,7 @@
           <div class="testimonial-wrap">
             <div class="testimonial-item">
               <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-              <h3>Praveen Kumar</h3>
+              <h3>Ajay Kumar</h3>
               <h4>Student</h4>
               <p>
                 <i class="bx bxs-quote-alt-left quote-icon-left"></i>
