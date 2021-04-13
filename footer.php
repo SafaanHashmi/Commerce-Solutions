@@ -54,11 +54,11 @@
 
       <div class="mr-md-auto text-center text-md-left">
         <div class="copyright">
-          &copy; Copyright <strong><span>Commerce Solutions</span></strong>. All Rights Reserved
+          &copy; Copyright <strong><span>Commerce Solutions</span></strong>
         </div>
         <div class="credits">
           
-          Designed by <a href="https://safaanhashmi.herokuapp.com/">Safaan Amin Hashmi</a>
+          Developed by <a href="https://safaanhashmi.herokuapp.com/">Safaan Amin Hashmi</a>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
